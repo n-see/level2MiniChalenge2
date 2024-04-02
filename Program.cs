@@ -38,7 +38,7 @@ app.MapGet("/weatherforecast", () =>
 
 //number string endpoint 1
 
-app.MapGet("/addNums", (Int32 num1, Int32 num2 ) =>{
+app.MapGet("/addNums", (double num1, double num2 ) =>{
     return "The sum of " + num1 + " + " +  num2 + " is " + (num1 + num2);
 } );
 
