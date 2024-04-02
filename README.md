@@ -16,5 +16,6 @@ Endpoints:
      I. The first statement should tell me if the first number is greater than, less than or equal to the second number.
      II. The second statement should tell me if the second number is greater than, less than, or equal to the first number.
 
-   peer review by:
-   comments:
+   peer review by:Julius
+   comments:Everythings working good, just the last endpoint missing a second statement.
+
