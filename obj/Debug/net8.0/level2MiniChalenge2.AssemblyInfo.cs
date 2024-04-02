@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("level2MiniChalenge2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fb58cf49378dec5ec8372d83be3495970335cb7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07a781fd4f6e709a334e49c55e1bbb775c148361")]
 [assembly: System.Reflection.AssemblyProductAttribute("level2MiniChalenge2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("level2MiniChalenge2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
