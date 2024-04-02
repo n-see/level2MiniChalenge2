@@ -1,0 +1,6 @@
+@level2MiniChalenge2_HostAddress = http://localhost:5122
+
+GET {{level2MiniChalenge2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\level2MiniChalenge2.props" />
+</Project>
